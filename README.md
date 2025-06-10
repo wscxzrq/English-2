@@ -97,11 +97,13 @@
 3. 介词后面
 4. 动词的前面或后面
 
-# 名词的输
+# 名词的数
 
 ## 名词的分类
 
-1. **可数名词**
+1. **可数名词** 
+
+   a e i o u 原音
 
    1. **规则变化**
 
@@ -109,14 +111,96 @@
 
       以“<font color="#F56C6C">s/x/z/sh/ch</font>”结尾： + “es”: box<font color="#F56C6C">es</font>,dish<font color="#F56C6C">es</font>
 
-   2. **不规则变化**
+      <font color="#F56C6C">辅音字母 + ‘‘y’’</font> 结尾，变 y 为 <font color="#F56C6C">i</font> 再加 <font color="#F56C6C">es</font>: famil<font color="#F56C6C">ies</font>
+
+      <font color="#F56C6C">原音字母 + “y”</font>结尾，变复数直接 + <font color="#F56C6C">“s”</font> : toy<font color="#F56C6C">s</font>
+
+      <font color="#F56C6C">"f/fe"</font> 结尾，变“f/fe” 为 <font color="#F56C6C">“v”</font> 再加 <font color="#F56C6C">“es”</font> : thie<font color="#F56C6C">ves</font>
+
+      <font color="#F56C6C">辅音字母 + “o”</font> 结尾 + <font color="#F56C6C">“es”</font> : hero<font color="#F56C6C">es</font>, potato<font color="#F56C6C">es</font>, tomato<font color="#F56C6C">es</font>
+
+      <font color="#F56C6C">原音字母 + “o”</font> 结尾 + <font color="#F56C6C">“s”</font> : zoo<font color="#F56C6C">s</font>, kangaroo<font color="#F56C6C">s</font>, photo<font color="#F56C6C">s</font>
+
+      **特例**：
+
+      ​	chief $\rightarrow$ chiefs 首领
+
+      ​	lelief $\rightarrow$ beliefs 信心
+
+      ​	root $\rightarrow$ roots 屋顶
+
+      ​	proof $\rightarrow$ proofs 证据
+
+      ​	safe $\rightarrow$ safes  保险箱
+
+      ​	**首领有信心在屋顶找到证据，结果发现了一个保险箱**
+
+      ​	auto $\rightarrow$ autos 小汽车
+
+      ​	piano $\rightarrow$ pianos 钢琴
+
+      ​	kilo $\rightarrow$ kilos 千克
+
+      ​	**小汽车比钢琴重100千克**
+
+      两个<font color="#F56C6C">小偷</font>偷了一些<font color="#F56C6C">土豆</font>
+
+      Two <font color="#F56C6C">thieves</font> (thief) stole some <font color="#F56C6C">potatoes</font> (potato)
+
+      他们的<font color="#F56C6C">朋友们</font> 和<font color="#F56C6C">家人们</font>带着一些<font color="#F56C6C">盘子</font>和<font color="#F56C6C">盒子</font>去<font color="#F56C6C">动物园</font>
+
+      Their <font color="#F56C6C">friends</font> (friend) and <font color="#F56C6C">families</font> (family) take some <font color="#F56C6C">dishes</font> (dish) and <font color="#F56C6C">boxes</font> (box) to the <font color="#F56C6C">zoos</font> (zoo)
+
+      他们看到了<font color="#F56C6C">袋鼠</font>，拍了很多<font color="#F56C6C">照片</font>，还买了一些<font color="#F56C6C">玩具</font>
+
+      They saw <font color="#F56C6C">kangraoos</font> (kangaroo) took a lot of <font color="#F56C6C">photos</font> (photo) and bought some <font color="#F56C6C">toys</font> (toy)  
+
+      You can make <font color="#F56C6C">mistakes</font> and it's going to be Ok. (mistake)
+
+      The teacher has made a few <font color="#F56C6C">adjustments</font> to the seating plan of the class. (adjust)
+
+   1. **不规则变化**
+
+      1. <font color="#F56C6C">单复同行：</font> deer、sheep、<font color="#F56C6C">fish</font>、Chinese、means
+
+      2. 词义要求<font color="#F56C6C">只有复数</font>：（一般是工具和衣服）<font color="#F56C6C">shorts</font>, scissors
+
+      3. <font color="#F56C6C">特殊变化</font>：man $\rightarrow$ men; foot $\rightarrow$ feet; tooth $\rightarrow$ teeth; child $\rightarrow$ children
+
+      4. <font color="#F56C6C">集合名词</font>(形式上是单数，但是既可以表示单数的含义又可以表示复数的含义，只能在谓语动词上): family, people, police, cattle
+
+         他的<font color="#F56C6C">家族</font>很大
+
+         His <font color="#F56C6C">family</font> is large
+
+         他的<font color="#F56C6C">家人们</font>正在等他
+
+         His <font color="#F56C6C">family</font> are all waiting for him
+
+      5. 合成名词：主体名词变复数，如果没有主体名词则将最后一个部分变为复数,
+
+         **特例**：性别加职业 统一全都变复数
+
+         grown-up<font color="#F56C6C">s</font>, breakdown<font color="#F56C6C">s</font>, babysitter<font color="#F56C6C">s</font>, son<font color="#F56C6C">s</font>-in-law, looker<font color="#F56C6C">s</font>-on, passer<font color="#F56C6C">s</font>-by, m<font color="#F56C6C">e</font>n writer<font color="#F56C6C">s</font> (男作家), wom<font color="#F56C6C">e</font>n singer<font color="#F56C6C">s</font> (女歌手)
+
+         他比他的<font color="#F56C6C">同胞</font>更受国外人民的赏识
+
+         He has been more appreciated by people abroad than by his own <font color="#F56C6C">countrymen</font>. (countryman)
+
+         为了安全起见，游泳池周围应该有<font color="#F56C6C">救生员</font>
+
+         For security's sake, there should be <font color="#F56C6C">life-savers</font> around a swimming pool. (life-save)
+
+         不要怕，我的<font color="#F56C6C">需求</font>很少而且合理
+
+         Don't be afraid. My <font color="#F56C6C">requirements</font> are few and reasonable. (require) require 是动词，要先变成名词 再变复数形式，谓语动词 are 是复数
 
 2. **不可数名词**
 
    1. **物质名词**
    2. **抽象名词**
 
-The teacher has made a few <font color="#F56C6C">adjustments</font> to the seating plan of the class. (adjust)
+
 
 
 
