@@ -293,7 +293,49 @@ I have <font color="#F56C6C">little</font> money left
 
 我们<font color="#F56C6C">是</font>一家人	We <font color="#F56C6C">are</font> a family
 
+==is== 的过去式 是 ==was==
 
+==are== 的过去式是 ==were==
+
+==is== 的被动语态 ==has==
+
+==are== 的被动语态是==have==
+
+is➡️has been down
+
+are➡️ have been down
+
+过去完成被动语态
+
+#### 语法一致
+
+谓语动词和主语的单复数保持一致
+
+| 主语             | 谓语动词         | 例子                                                         |
+| ---------------- | ---------------- | ------------------------------------------------------------ |
+| 可数名词（单数） | 谓动单数         | ==My boss== ==was== happy with the decision  My boss 单数，所以谓动用单数 |
+| 可数名词（复数） | 谓动复数（原型） | A number of ==apples== ==have== been eaten A number of apples 一些苹果是复数 谓动用复数 |
+| 不可数名词       | 谓动单数         | ==Time== ==is== money 时间是不可数名词，后面谓动用单数       |
+
+- a number of + ==可数名词（复数）==+ 谓动**复数**
+
+  许多....
+
+- the number of + ==名词（任意数）==+ 谓动**单数**
+
+  ..... 的数量
+
+假象主语：<font color="#F56C6C">as well as、together with、along with、except、but</font>
+
+He and I like music
+
+He, together with his friends, likes music
+
+He, as well as his friends likes music
+
+#### 意义一致
+
+#### 就近一致
 
 
 
